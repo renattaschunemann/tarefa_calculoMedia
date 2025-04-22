@@ -22,7 +22,6 @@ public class Main {
 
         if (media >= 6) {
             System.out.println("Aprovado");
-
         } else if (media >= 4 && media < 6) {
             System.out.println("Recuperação");
 
